@@ -8,10 +8,11 @@
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
 - [NFT.Storage](https://nft.storage/) (Connection to IPFS)
-- [Hugging Face](https://huggingface.co/) (AI Models)
+- [Hugging Face](https://huggingface.co/) (AI Models, stable-depression-2 is used)
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
+- NodeJS v18.0 is used
 
 ## Setting Up
 ### 1. Clone/Download the Repository
